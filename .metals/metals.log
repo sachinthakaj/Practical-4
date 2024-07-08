@@ -1,0 +1,513 @@
+2024.07.08 17:06:20 INFO  Started: Metals version 1.3.2 in folders 'C:\Users\Sachinthaka\OneDrive\Desktop\2Y SEM1\Functional Programming\Practical-4' for client Visual Studio Code 1.90.2.
+SLF4J(W): Class path contains multiple SLF4J providers.
+SLF4J(W): Found provider [scribe.slf4j.ScribeServiceProvider@5d69d1c9]
+SLF4J(W): Found provider [ch.qos.logback.classic.spi.LogbackServiceProvider@370e65e2]
+SLF4J(W): See https://www.slf4j.org/codes.html#multiple_bindings for an explanation.
+SLF4J(I): Actual provider is of type [scribe.slf4j.ScribeServiceProvider@5d69d1c9]
+2024.07.08 17:06:20 WARN  Flyway upgrade recommended: H2 2.2.224 is newer than this version of Flyway and support has not been tested. The latest supported version of H2 is 2.2.220.
+2024.07.08 17:06:21 INFO  no build target found for C:\Users\Sachinthaka\OneDrive\Desktop\2Y SEM1\Functional Programming\Practical-4\q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.08 17:06:29 WARN  no build target for: C:\Users\Sachinthaka\OneDrive\Desktop\2Y SEM1\Functional Programming\Practical-4\q1.scala
+2024.07.08 17:06:29 INFO  no build target found for C:\Users\Sachinthaka\OneDrive\Desktop\2Y SEM1\Functional Programming\Practical-4\q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.08 17:06:29 INFO  Shutting down server
+2024.07.08 17:06:29 INFO  shutting down Metals
+2024.07.08 17:06:29 WARN  Flyway upgrade recommended: H2 2.2.224 is newer than this version of Flyway and support has not been tested. The latest supported version of H2 is 2.2.220.
+2024.07.08 17:06:29 INFO  Exiting server
+2024.07.08 17:07:15 INFO  Started: Metals version 1.3.2 in folders 'C:\Users\Sachinthaka\OneDrive\Desktop\2Y SEM1\Functional Programming\Practical-4' for client Visual Studio Code 1.90.2.
+SLF4J(W): Class path contains multiple SLF4J providers.
+SLF4J(W): Found provider [scribe.slf4j.ScribeServiceProvider@5165713]
+SLF4J(W): Found provider [ch.qos.logback.classic.spi.LogbackServiceProvider@5f2054f1]
+SLF4J(W): See https://www.slf4j.org/codes.html#multiple_bindings for an explanation.
+SLF4J(I): Actual provider is of type [scribe.slf4j.ScribeServiceProvider@5165713]
+2024.07.08 17:07:20 WARN  Flyway upgrade recommended: H2 2.2.224 is newer than this version of Flyway and support has not been tested. The latest supported version of H2 is 2.2.220.
+Jul 08, 2024 5:07:20 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1
+Jul 08, 2024 5:07:20 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2
+2024.07.08 17:07:20 INFO  no build target found for C:\Users\Sachinthaka\OneDrive\Desktop\2Y SEM1\Functional Programming\Practical-4\q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.08 17:07:20 INFO  no build target found for C:\Users\Sachinthaka\OneDrive\Desktop\2Y SEM1\Functional Programming\Practical-4\q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+Jul 08, 2024 5:07:21 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 7
+Jul 08, 2024 5:07:21 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 6
+Jul 08, 2024 5:07:21 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 15
+Jul 08, 2024 5:07:21 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 9
+2024.07.08 17:07:21 INFO  no build target found for C:\Users\Sachinthaka\OneDrive\Desktop\2Y SEM1\Functional Programming\Practical-4\q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.08 17:07:21 INFO  no build target found for C:\Users\Sachinthaka\OneDrive\Desktop\2Y SEM1\Functional Programming\Practical-4\q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.08 17:07:22 INFO  no build target found for C:\Users\Sachinthaka\OneDrive\Desktop\2Y SEM1\Functional Programming\Practical-4\q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.08 17:07:23 INFO  no build target found for C:\Users\Sachinthaka\OneDrive\Desktop\2Y SEM1\Functional Programming\Practical-4\q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.08 17:07:31 INFO  Running List(C:\Users\Sachinthaka\AppData\Local\Coursier\data\bin\scala-cli.BAT, setup-ide, C:\Users\Sachinthaka\OneDrive\Desktop\2Y SEM1\Functional Programming\Practical-4)
+2024.07.08 17:07:31 INFO  Attempting to connect to the build server...
+2024.07.08 17:07:31 INFO  Running BSP server List(C:\Users\Sachinthaka\AppData\Local\Coursier\data\bin\.scala-cli.aux.exe, bsp, --json-options, C:\Users\Sachinthaka\OneDrive\Desktop\2Y SEM1\Functional Programming\Practical-4\.scala-build\ide-options-v2.json, --json-launcher-options, C:\Users\Sachinthaka\OneDrive\Desktop\2Y SEM1\Functional Programming\Practical-4\.scala-build\ide-launcher-options.json, --envs-file, C:\Users\Sachinthaka\OneDrive\Desktop\2Y SEM1\Functional Programming\Practical-4\.scala-build\ide-envs.json, C:\Users\Sachinthaka\OneDrive\Desktop\2Y SEM1\Functional Programming\Practical-4)
+2024.07.08 17:07:31 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at C:\Users\Sachinthaka\OneDrive\Desktop\2Y SEM1\Functional Programming\Practical-4\.metals\bsp.trace.json or C:\Users\Sachinthaka\AppData\Local\scalameta\metals\cache\bsp.trace.json
+2024.07.08 17:07:32 INFO  no build target found for C:\Users\Sachinthaka\OneDrive\Desktop\2Y SEM1\Functional Programming\Practical-4\q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.08 17:07:32 INFO  no build target found for C:\Users\Sachinthaka\OneDrive\Desktop\2Y SEM1\Functional Programming\Practical-4\q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.08 17:07:32 INFO  no build target found for C:\Users\Sachinthaka\OneDrive\Desktop\2Y SEM1\Functional Programming\Practical-4\q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.08 17:07:33 INFO  no build target found for C:\Users\Sachinthaka\OneDrive\Desktop\2Y SEM1\Functional Programming\Practical-4\q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.08 17:07:33 INFO  no build target found for C:\Users\Sachinthaka\OneDrive\Desktop\2Y SEM1\Functional Programming\Practical-4\q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.08 17:07:34 INFO  no build target found for C:\Users\Sachinthaka\OneDrive\Desktop\2Y SEM1\Functional Programming\Practical-4\q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.08 17:07:35 INFO  time: Connected to build server in 3.3s
+2024.07.08 17:07:35 INFO  Connected to Build server: scala-cli v1.3.2
+2024.07.08 17:07:35 INFO  compiling practical-4_f4dd477a3a (1 scala source)
+2024.07.08 17:07:35 INFO  time: compiled Practical-4_f4dd477a3a in 0.3s
+2024.07.08 17:07:35 INFO  compiling practical-4_f4dd477a3a (1 scala source)
+2024.07.08 17:07:35 INFO  time: compiled Practical-4_f4dd477a3a in 0.1s
+2024.07.08 17:07:37 INFO  time: indexed workspace in 2.5s
+2024.07.08 17:07:37 INFO  compiling practical-4_f4dd477a3a (1 scala source)
+2024.07.08 17:07:37 INFO  time: compiled Practical-4_f4dd477a3a in 0.1s
+2024.07.08 17:07:37 INFO  compiling practical-4_f4dd477a3a (1 scala source)
+2024.07.08 17:07:37 INFO  time: compiled Practical-4_f4dd477a3a in 90ms
+Jul 08, 2024 5:08:17 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 99
+2024.07.08 17:08:39 INFO  compiling practical-4_f4dd477a3a (1 scala source)
+2024.07.08 17:08:39 INFO  time: compiled Practical-4_f4dd477a3a in 68ms
+2024.07.08 17:08:46 INFO  Shutting down server
+2024.07.08 17:08:46 INFO  shutting down Metals
+2024.07.08 17:08:46 INFO  Shut down connection with build server.
+2024.07.08 17:08:46 INFO  Exiting server
+2024.07.08 17:09:32 INFO  Started: Metals version 1.3.2 in folders 'C:\Users\Sachinthaka\OneDrive\Desktop\2Y SEM1\Functional Programming\Practical-4' for client Visual Studio Code 1.90.2.
+SLF4J(W): Class path contains multiple SLF4J providers.
+SLF4J(W): Found provider [scribe.slf4j.ScribeServiceProvider@2ccd78d2]
+SLF4J(W): Found provider [ch.qos.logback.classic.spi.LogbackServiceProvider@6860d2a2]
+SLF4J(W): See https://www.slf4j.org/codes.html#multiple_bindings for an explanation.
+SLF4J(I): Actual provider is of type [scribe.slf4j.ScribeServiceProvider@2ccd78d2]
+2024.07.08 17:09:32 WARN  Flyway upgrade recommended: H2 2.2.224 is newer than this version of Flyway and support has not been tested. The latest supported version of H2 is 2.2.220.
+Jul 08, 2024 5:09:33 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1
+2024.07.08 17:09:33 INFO  no build target found for C:\Users\Sachinthaka\OneDrive\Desktop\2Y SEM1\Functional Programming\Practical-4\q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.08 17:09:34 INFO  Attempting to connect to the build server...
+2024.07.08 17:09:34 INFO  Running BSP server List(C:\Users\Sachinthaka\AppData\Local\Coursier\data\bin\.scala-cli.aux.exe, bsp, --json-options, C:\Users\Sachinthaka\OneDrive\Desktop\2Y SEM1\Functional Programming\Practical-4\.scala-build\ide-options-v2.json, --json-launcher-options, C:\Users\Sachinthaka\OneDrive\Desktop\2Y SEM1\Functional Programming\Practical-4\.scala-build\ide-launcher-options.json, --envs-file, C:\Users\Sachinthaka\OneDrive\Desktop\2Y SEM1\Functional Programming\Practical-4\.scala-build\ide-envs.json, C:\Users\Sachinthaka\OneDrive\Desktop\2Y SEM1\Functional Programming\Practical-4)
+2024.07.08 17:09:34 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at C:\Users\Sachinthaka\OneDrive\Desktop\2Y SEM1\Functional Programming\Practical-4\.metals\bsp.trace.json or C:\Users\Sachinthaka\AppData\Local\scalameta\metals\cache\bsp.trace.json
+2024.07.08 17:09:38 INFO  time: Connected to build server in 4.52s
+2024.07.08 17:09:38 INFO  Connected to Build server: scala-cli v1.3.2
+2024.07.08 17:09:38 INFO  compiling practical-4_f4dd477a3a (1 scala source)
+2024.07.08 17:09:38 INFO  time: compiled Practical-4_f4dd477a3a in 0.24s
+2024.07.08 17:09:38 INFO  compiling practical-4_f4dd477a3a (1 scala source)
+2024.07.08 17:09:38 INFO  time: compiled Practical-4_f4dd477a3a in 0.14s
+2024.07.08 17:09:40 INFO  time: indexed workspace in 1.84s
+2024.07.08 17:09:40 INFO  compiling practical-4_f4dd477a3a (1 scala source)
+2024.07.08 17:09:40 INFO  time: compiled Practical-4_f4dd477a3a in 87ms
+2024.07.08 17:09:40 INFO  compiling practical-4_f4dd477a3a (1 scala source)
+2024.07.08 17:09:40 INFO  time: compiled Practical-4_f4dd477a3a in 82ms
+2024.07.08 17:33:26 INFO  compiling practical-4_f4dd477a3a (1 scala source)
+2024.07.08 17:33:26 INFO  time: compiled Practical-4_f4dd477a3a in 0.85s
+Jul 08, 2024 5:43:47 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint fallbackResponseError
+SEVERE: Internal error: java.lang.StringIndexOutOfBoundsException: begin 182, end 207, length 201
+java.util.concurrent.CompletionException: java.lang.StringIndexOutOfBoundsException: begin 182, end 207, length 201
+	at java.base/java.util.concurrent.CompletableFuture.encodeThrowable(CompletableFuture.java:332)
+	at java.base/java.util.concurrent.CompletableFuture.completeThrowable(CompletableFuture.java:347)
+	at java.base/java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:708)
+	at java.base/java.util.concurrent.CompletableFuture.postComplete(CompletableFuture.java:510)
+	at java.base/java.util.concurrent.CompletableFuture.completeExceptionally(CompletableFuture.java:2162)
+	at scala.meta.internal.metals.CancelTokens$.$anonfun$future$1(CancelTokens.scala:40)
+	at scala.meta.internal.metals.CancelTokens$.$anonfun$future$1$adapted(CancelTokens.scala:38)
+	at scala.concurrent.impl.Promise$Transformation.run(Promise.scala:484)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+Caused by: java.lang.StringIndexOutOfBoundsException: begin 182, end 207, length 201
+	at java.base/java.lang.String.checkBoundsBeginEnd(String.java:4601)
+	at java.base/java.lang.String.substring(String.java:2704)
+	at scala.meta.internal.metals.codeactions.FlatMapToForComprehensionCodeAction.getIndentForPos(FlatMapToForComprehensionCodeAction.scala:679)
+	at scala.meta.internal.metals.codeactions.FlatMapToForComprehensionCodeAction.$anonfun$contribute$4(FlatMapToForComprehensionCodeAction.scala:59)
+	at scala.Option.map(Option.scala:242)
+	at scala.meta.internal.metals.codeactions.FlatMapToForComprehensionCodeAction.$anonfun$contribute$3(FlatMapToForComprehensionCodeAction.scala:55)
+	at scala.Option.flatMap(Option.scala:283)
+	at scala.meta.internal.metals.codeactions.FlatMapToForComprehensionCodeAction.$anonfun$contribute$2(FlatMapToForComprehensionCodeAction.scala:54)
+	at scala.Option.flatMap(Option.scala:283)
+	at scala.meta.internal.metals.codeactions.FlatMapToForComprehensionCodeAction.$anonfun$contribute$1(FlatMapToForComprehensionCodeAction.scala:53)
+	at scala.concurrent.Future$.$anonfun$apply$1(Future.scala:687)
+	at scala.concurrent.impl.Promise$Transformation.run(Promise.scala:467)
+	... 3 more
+
+Jul 08, 2024 5:43:49 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint fallbackResponseError
+SEVERE: Internal error: java.lang.StringIndexOutOfBoundsException: begin 182, end 207, length 200
+java.util.concurrent.CompletionException: java.lang.StringIndexOutOfBoundsException: begin 182, end 207, length 200
+	at java.base/java.util.concurrent.CompletableFuture.encodeThrowable(CompletableFuture.java:332)
+	at java.base/java.util.concurrent.CompletableFuture.completeThrowable(CompletableFuture.java:347)
+	at java.base/java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:708)
+	at java.base/java.util.concurrent.CompletableFuture.postComplete(CompletableFuture.java:510)
+	at java.base/java.util.concurrent.CompletableFuture.completeExceptionally(CompletableFuture.java:2162)
+	at scala.meta.internal.metals.CancelTokens$.$anonfun$future$1(CancelTokens.scala:40)
+	at scala.meta.internal.metals.CancelTokens$.$anonfun$future$1$adapted(CancelTokens.scala:38)
+	at scala.concurrent.impl.Promise$Transformation.run(Promise.scala:484)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+Caused by: java.lang.StringIndexOutOfBoundsException: begin 182, end 207, length 200
+	at java.base/java.lang.String.checkBoundsBeginEnd(String.java:4601)
+	at java.base/java.lang.String.substring(String.java:2704)
+	at scala.meta.internal.metals.codeactions.FlatMapToForComprehensionCodeAction.getIndentForPos(FlatMapToForComprehensionCodeAction.scala:679)
+	at scala.meta.internal.metals.codeactions.FlatMapToForComprehensionCodeAction.$anonfun$contribute$4(FlatMapToForComprehensionCodeAction.scala:59)
+	at scala.Option.map(Option.scala:242)
+	at scala.meta.internal.metals.codeactions.FlatMapToForComprehensionCodeAction.$anonfun$contribute$3(FlatMapToForComprehensionCodeAction.scala:55)
+	at scala.Option.flatMap(Option.scala:283)
+	at scala.meta.internal.metals.codeactions.FlatMapToForComprehensionCodeAction.$anonfun$contribute$2(FlatMapToForComprehensionCodeAction.scala:54)
+	at scala.Option.flatMap(Option.scala:283)
+	at scala.meta.internal.metals.codeactions.FlatMapToForComprehensionCodeAction.$anonfun$contribute$1(FlatMapToForComprehensionCodeAction.scala:53)
+	at scala.concurrent.Future$.$anonfun$apply$1(Future.scala:687)
+	at scala.concurrent.impl.Promise$Transformation.run(Promise.scala:467)
+	... 3 more
+
+Jul 08, 2024 5:44:15 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint fallbackResponseError
+SEVERE: Internal error: java.lang.StringIndexOutOfBoundsException: begin 182, end 207, length 202
+java.util.concurrent.CompletionException: java.lang.StringIndexOutOfBoundsException: begin 182, end 207, length 202
+	at java.base/java.util.concurrent.CompletableFuture.encodeThrowable(CompletableFuture.java:332)
+	at java.base/java.util.concurrent.CompletableFuture.completeThrowable(CompletableFuture.java:347)
+	at java.base/java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:708)
+	at java.base/java.util.concurrent.CompletableFuture.postComplete(CompletableFuture.java:510)
+	at java.base/java.util.concurrent.CompletableFuture.completeExceptionally(CompletableFuture.java:2162)
+	at scala.meta.internal.metals.CancelTokens$.$anonfun$future$1(CancelTokens.scala:40)
+	at scala.meta.internal.metals.CancelTokens$.$anonfun$future$1$adapted(CancelTokens.scala:38)
+	at scala.concurrent.impl.Promise$Transformation.run(Promise.scala:484)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+Caused by: java.lang.StringIndexOutOfBoundsException: begin 182, end 207, length 202
+	at java.base/java.lang.String.checkBoundsBeginEnd(String.java:4601)
+	at java.base/java.lang.String.substring(String.java:2704)
+	at scala.meta.internal.metals.codeactions.FlatMapToForComprehensionCodeAction.getIndentForPos(FlatMapToForComprehensionCodeAction.scala:679)
+	at scala.meta.internal.metals.codeactions.FlatMapToForComprehensionCodeAction.$anonfun$contribute$4(FlatMapToForComprehensionCodeAction.scala:59)
+	at scala.Option.map(Option.scala:242)
+	at scala.meta.internal.metals.codeactions.FlatMapToForComprehensionCodeAction.$anonfun$contribute$3(FlatMapToForComprehensionCodeAction.scala:55)
+	at scala.Option.flatMap(Option.scala:283)
+	at scala.meta.internal.metals.codeactions.FlatMapToForComprehensionCodeAction.$anonfun$contribute$2(FlatMapToForComprehensionCodeAction.scala:54)
+	at scala.Option.flatMap(Option.scala:283)
+	at scala.meta.internal.metals.codeactions.FlatMapToForComprehensionCodeAction.$anonfun$contribute$1(FlatMapToForComprehensionCodeAction.scala:53)
+	at scala.concurrent.Future$.$anonfun$apply$1(Future.scala:687)
+	at scala.concurrent.impl.Promise$Transformation.run(Promise.scala:467)
+	... 3 more
+
+Jul 08, 2024 5:44:16 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint fallbackResponseError
+SEVERE: Internal error: java.lang.StringIndexOutOfBoundsException: begin 182, end 207, length 202
+java.util.concurrent.CompletionException: java.lang.StringIndexOutOfBoundsException: begin 182, end 207, length 202
+	at java.base/java.util.concurrent.CompletableFuture.encodeThrowable(CompletableFuture.java:332)
+	at java.base/java.util.concurrent.CompletableFuture.completeThrowable(CompletableFuture.java:347)
+	at java.base/java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:708)
+	at java.base/java.util.concurrent.CompletableFuture.postComplete(CompletableFuture.java:510)
+	at java.base/java.util.concurrent.CompletableFuture.completeExceptionally(CompletableFuture.java:2162)
+	at scala.meta.internal.metals.CancelTokens$.$anonfun$future$1(CancelTokens.scala:40)
+	at scala.meta.internal.metals.CancelTokens$.$anonfun$future$1$adapted(CancelTokens.scala:38)
+	at scala.concurrent.impl.Promise$Transformation.run(Promise.scala:484)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+Caused by: java.lang.StringIndexOutOfBoundsException: begin 182, end 207, length 202
+	at java.base/java.lang.String.checkBoundsBeginEnd(String.java:4601)
+	at java.base/java.lang.String.substring(String.java:2704)
+	at scala.meta.internal.metals.codeactions.FlatMapToForComprehensionCodeAction.getIndentForPos(FlatMapToForComprehensionCodeAction.scala:679)
+	at scala.meta.internal.metals.codeactions.FlatMapToForComprehensionCodeAction.$anonfun$contribute$4(FlatMapToForComprehensionCodeAction.scala:59)
+	at scala.Option.map(Option.scala:242)
+	at scala.meta.internal.metals.codeactions.FlatMapToForComprehensionCodeAction.$anonfun$contribute$3(FlatMapToForComprehensionCodeAction.scala:55)
+	at scala.Option.flatMap(Option.scala:283)
+	at scala.meta.internal.metals.codeactions.FlatMapToForComprehensionCodeAction.$anonfun$contribute$2(FlatMapToForComprehensionCodeAction.scala:54)
+	at scala.Option.flatMap(Option.scala:283)
+	at scala.meta.internal.metals.codeactions.FlatMapToForComprehensionCodeAction.$anonfun$contribute$1(FlatMapToForComprehensionCodeAction.scala:53)
+	at scala.concurrent.Future$.$anonfun$apply$1(Future.scala:687)
+	at scala.concurrent.impl.Promise$Transformation.run(Promise.scala:467)
+	... 3 more
+
+Jul 08, 2024 5:44:17 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint fallbackResponseError
+SEVERE: Internal error: java.lang.StringIndexOutOfBoundsException: begin 182, end 207, length 204
+java.util.concurrent.CompletionException: java.lang.StringIndexOutOfBoundsException: begin 182, end 207, length 204
+	at java.base/java.util.concurrent.CompletableFuture.encodeThrowable(CompletableFuture.java:332)
+	at java.base/java.util.concurrent.CompletableFuture.completeThrowable(CompletableFuture.java:347)
+	at java.base/java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:708)
+	at java.base/java.util.concurrent.CompletableFuture.postComplete(CompletableFuture.java:510)
+	at java.base/java.util.concurrent.CompletableFuture.completeExceptionally(CompletableFuture.java:2162)
+	at scala.meta.internal.metals.CancelTokens$.$anonfun$future$1(CancelTokens.scala:40)
+	at scala.meta.internal.metals.CancelTokens$.$anonfun$future$1$adapted(CancelTokens.scala:38)
+	at scala.concurrent.impl.Promise$Transformation.run(Promise.scala:484)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+Caused by: java.lang.StringIndexOutOfBoundsException: begin 182, end 207, length 204
+	at java.base/java.lang.String.checkBoundsBeginEnd(String.java:4601)
+	at java.base/java.lang.String.substring(String.java:2704)
+	at scala.meta.internal.metals.codeactions.FlatMapToForComprehensionCodeAction.getIndentForPos(FlatMapToForComprehensionCodeAction.scala:679)
+	at scala.meta.internal.metals.codeactions.FlatMapToForComprehensionCodeAction.$anonfun$contribute$4(FlatMapToForComprehensionCodeAction.scala:59)
+	at scala.Option.map(Option.scala:242)
+	at scala.meta.internal.metals.codeactions.FlatMapToForComprehensionCodeAction.$anonfun$contribute$3(FlatMapToForComprehensionCodeAction.scala:55)
+	at scala.Option.flatMap(Option.scala:283)
+	at scala.meta.internal.metals.codeactions.FlatMapToForComprehensionCodeAction.$anonfun$contribute$2(FlatMapToForComprehensionCodeAction.scala:54)
+	at scala.Option.flatMap(Option.scala:283)
+	at scala.meta.internal.metals.codeactions.FlatMapToForComprehensionCodeAction.$anonfun$contribute$1(FlatMapToForComprehensionCodeAction.scala:53)
+	at scala.concurrent.Future$.$anonfun$apply$1(Future.scala:687)
+	at scala.concurrent.impl.Promise$Transformation.run(Promise.scala:467)
+	... 3 more
+
+Jul 08, 2024 5:44:28 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint fallbackResponseError
+SEVERE: Internal error: java.lang.StringIndexOutOfBoundsException: begin 182, end 207, length 204
+java.util.concurrent.CompletionException: java.lang.StringIndexOutOfBoundsException: begin 182, end 207, length 204
+	at java.base/java.util.concurrent.CompletableFuture.encodeThrowable(CompletableFuture.java:332)
+	at java.base/java.util.concurrent.CompletableFuture.completeThrowable(CompletableFuture.java:347)
+	at java.base/java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:708)
+	at java.base/java.util.concurrent.CompletableFuture.postComplete(CompletableFuture.java:510)
+	at java.base/java.util.concurrent.CompletableFuture.completeExceptionally(CompletableFuture.java:2162)
+	at scala.meta.internal.metals.CancelTokens$.$anonfun$future$1(CancelTokens.scala:40)
+	at scala.meta.internal.metals.CancelTokens$.$anonfun$future$1$adapted(CancelTokens.scala:38)
+	at scala.concurrent.impl.Promise$Transformation.run(Promise.scala:484)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+Caused by: java.lang.StringIndexOutOfBoundsException: begin 182, end 207, length 204
+	at java.base/java.lang.String.checkBoundsBeginEnd(String.java:4601)
+	at java.base/java.lang.String.substring(String.java:2704)
+	at scala.meta.internal.metals.codeactions.FlatMapToForComprehensionCodeAction.getIndentForPos(FlatMapToForComprehensionCodeAction.scala:679)
+	at scala.meta.internal.metals.codeactions.FlatMapToForComprehensionCodeAction.$anonfun$contribute$4(FlatMapToForComprehensionCodeAction.scala:59)
+	at scala.Option.map(Option.scala:242)
+	at scala.meta.internal.metals.codeactions.FlatMapToForComprehensionCodeAction.$anonfun$contribute$3(FlatMapToForComprehensionCodeAction.scala:55)
+	at scala.Option.flatMap(Option.scala:283)
+	at scala.meta.internal.metals.codeactions.FlatMapToForComprehensionCodeAction.$anonfun$contribute$2(FlatMapToForComprehensionCodeAction.scala:54)
+	at scala.Option.flatMap(Option.scala:283)
+	at scala.meta.internal.metals.codeactions.FlatMapToForComprehensionCodeAction.$anonfun$contribute$1(FlatMapToForComprehensionCodeAction.scala:53)
+	at scala.concurrent.Future$.$anonfun$apply$1(Future.scala:687)
+	at scala.concurrent.impl.Promise$Transformation.run(Promise.scala:467)
+	... 3 more
+
+Jul 08, 2024 5:44:39 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1272
+Jul 08, 2024 5:44:40 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1283
+2024.07.08 17:46:56 INFO  compiling practical-4_f4dd477a3a (1 scala source)
+2024.07.08 17:46:56 INFO  time: compiled Practical-4_f4dd477a3a in 0.59s
+2024.07.08 17:47:28 INFO  compiling practical-4_f4dd477a3a (1 scala source)
+2024.07.08 17:47:28 INFO  time: compiled Practical-4_f4dd477a3a in 0.14s
+2024.07.08 17:48:35 INFO  compiling practical-4_f4dd477a3a (1 scala source)
+2024.07.08 17:48:35 INFO  time: compiled Practical-4_f4dd477a3a in 0.15s
+2024.07.08 17:50:38 INFO  compiling practical-4_f4dd477a3a (1 scala source)
+2024.07.08 17:50:38 INFO  time: compiled Practical-4_f4dd477a3a in 0.14s
+2024.07.08 17:51:02 INFO  compiling practical-4_f4dd477a3a (1 scala source)
+2024.07.08 17:51:02 INFO  time: compiled Practical-4_f4dd477a3a in 0.12s
+2024.07.08 17:52:27 INFO  file:///C:/Users/Sachinthaka/OneDrive/Desktop/2Y%20SEM1/Functional%20Programming/Practical-4/q1.scala:11:9: stale bloop error: None of the overloaded alternatives of method println in object Predef with types
+ (x: Any): Unit
+ (): Unit
+match arguments (Int, (" :-" : String), String)
+        println(a1(i)," :-",a2(i))
+        ^^^^^^^
+2024.07.08 17:52:27 WARN  Could not find semantic tokens for: file:///C:/Users/Sachinthaka/OneDrive/Desktop/2Y%20SEM1/Functional%20Programming/Practical-4/q1.scala
+2024.07.08 17:52:31 INFO  compiling practical-4_f4dd477a3a (1 scala source)
+2024.07.08 17:52:31 INFO  time: compiled Practical-4_f4dd477a3a in 0.6s
+Jul 08, 2024 5:59:20 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2158
+2024.07.08 17:59:23 INFO  compiling practical-4_f4dd477a3a (1 scala source)
+2024.07.08 17:59:23 INFO  time: compiled Practical-4_f4dd477a3a in 0.19s
+Jul 08, 2024 5:59:46 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2168
+2024.07.08 18:03:06 INFO  compiling practical-4_f4dd477a3a (1 scala source)
+2024.07.08 18:03:06 INFO  time: compiled Practical-4_f4dd477a3a in 0.12s
+2024.07.08 18:03:23 INFO  compiling practical-4_f4dd477a3a (1 scala source)
+2024.07.08 18:03:23 INFO  time: compiled Practical-4_f4dd477a3a in 82ms
+2024.07.08 18:03:36 INFO  compiling practical-4_f4dd477a3a (1 scala source)
+2024.07.08 18:03:36 INFO  time: compiled Practical-4_f4dd477a3a in 82ms
+2024.07.08 18:03:44 INFO  Shutting down server
+2024.07.08 18:03:44 INFO  shutting down Metals
+2024.07.08 18:03:44 INFO  Shut down connection with build server.
+2024.07.08 18:03:44 INFO  Exiting server
+2024.07.08 18:04:18 INFO  Started: Metals version 1.3.2 in folders 'C:\Users\Sachinthaka\OneDrive\Desktop\2Y SEM1\Functional Programming\Practical-4' for client Visual Studio Code 1.90.2.
+SLF4J(W): Class path contains multiple SLF4J providers.
+SLF4J(W): Found provider [scribe.slf4j.ScribeServiceProvider@11af6506]
+SLF4J(W): Found provider [ch.qos.logback.classic.spi.LogbackServiceProvider@f4cafcb]
+SLF4J(W): See https://www.slf4j.org/codes.html#multiple_bindings for an explanation.
+SLF4J(I): Actual provider is of type [scribe.slf4j.ScribeServiceProvider@11af6506]
+2024.07.08 18:04:18 WARN  Flyway upgrade recommended: H2 2.2.224 is newer than this version of Flyway and support has not been tested. The latest supported version of H2 is 2.2.220.
+2024.07.08 18:04:19 INFO  no build target found for C:\Users\Sachinthaka\OneDrive\Desktop\2Y SEM1\Functional Programming\Practical-4\q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.08 18:04:19 INFO  Attempting to connect to the build server...
+2024.07.08 18:04:19 INFO  Running BSP server List(C:\Users\Sachinthaka\AppData\Local\Coursier\data\bin\.scala-cli.aux.exe, bsp, --json-options, C:\Users\Sachinthaka\OneDrive\Desktop\2Y SEM1\Functional Programming\Practical-4\.scala-build\ide-options-v2.json, --json-launcher-options, C:\Users\Sachinthaka\OneDrive\Desktop\2Y SEM1\Functional Programming\Practical-4\.scala-build\ide-launcher-options.json, --envs-file, C:\Users\Sachinthaka\OneDrive\Desktop\2Y SEM1\Functional Programming\Practical-4\.scala-build\ide-envs.json, C:\Users\Sachinthaka\OneDrive\Desktop\2Y SEM1\Functional Programming\Practical-4)
+2024.07.08 18:04:20 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at C:\Users\Sachinthaka\OneDrive\Desktop\2Y SEM1\Functional Programming\Practical-4\.metals\bsp.trace.json or C:\Users\Sachinthaka\AppData\Local\scalameta\metals\cache\bsp.trace.json
+2024.07.08 18:04:23 INFO  time: Connected to build server in 3.72s
+2024.07.08 18:04:23 INFO  Connected to Build server: scala-cli v1.3.2
+2024.07.08 18:04:23 INFO  compiling practical-4_f4dd477a3a (1 scala source)
+2024.07.08 18:04:23 INFO  time: compiled Practical-4_f4dd477a3a in 0.64s
+2024.07.08 18:04:25 INFO  time: indexed workspace in 2.04s
+2024.07.08 18:04:52 INFO  compiling practical-4_f4dd477a3a (1 scala source)
+2024.07.08 18:04:52 INFO  time: compiled Practical-4_f4dd477a3a in 0.24s
+2024.07.08 18:14:20 INFO  compiling practical-4_f4dd477a3a (1 scala source)
+2024.07.08 18:14:20 INFO  time: compiled Practical-4_f4dd477a3a in 0.89s
+Jul 09, 2024 12:07:11 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 543
+Jul 09, 2024 12:07:13 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 553
+Jul 09, 2024 12:13:23 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1006
+2024.07.09 00:18:54 INFO  compiling practical-4_f4dd477a3a (1 scala source)
+2024.07.09 00:18:55 INFO  time: compiled Practical-4_f4dd477a3a in 1.16s
+Jul 09, 2024 12:19:56 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1908
+2024.07.09 00:21:28 INFO  compiling practical-4_f4dd477a3a (1 scala source)
+2024.07.09 00:21:28 INFO  time: compiled Practical-4_f4dd477a3a in 0.48s
+2024.07.09 00:22:16 INFO  compiling practical-4_f4dd477a3a (1 scala source)
+2024.07.09 00:22:16 INFO  time: compiled Practical-4_f4dd477a3a in 0.32s
+Jul 09, 2024 12:26:49 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2232
+Jul 09, 2024 12:32:30 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2918
+Jul 09, 2024 12:34:32 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3051
+2024.07.09 00:36:32 ERROR Failed to tokenize input for semantic tokens for C:\Users\Sachinthaka\OneDrive\Desktop\2Y SEM1\Functional Programming\Practical-4\q1.scala
+scala.meta.tokenizers.TokenizeException: <input>:19: error: unclosed comment
+/*def restockitem(a1:Array[Int],a2:Array[String],item:String,new_quantity:Int): Unit = {
+^
+	at scala.meta.internal.tokenizers.Reporter.incompleteInputError(Reporter.scala:26)
+	at scala.meta.internal.tokenizers.Reporter.incompleteInputError$(Reporter.scala:26)
+	at scala.meta.internal.tokenizers.Reporter$$anon$1.incompleteInputError(Reporter.scala:32)
+	at scala.meta.internal.tokenizers.Reporter.incompleteInputError(Reporter.scala:28)
+	at scala.meta.internal.tokenizers.Reporter.incompleteInputError$(Reporter.scala:28)
+	at scala.meta.internal.tokenizers.Reporter$$anon$1.incompleteInputError(Reporter.scala:32)
+	at scala.meta.internal.tokenizers.LegacyScanner.skipNestedComments(LegacyScanner.scala:61)
+	at scala.meta.internal.tokenizers.LegacyScanner.skipToCommentEnd(LegacyScanner.scala:77)
+	at scala.meta.internal.tokenizers.LegacyScanner.fetchToken(LegacyScanner.scala:300)
+	at scala.meta.internal.tokenizers.LegacyScanner.nextToken(LegacyScanner.scala:201)
+	at scala.meta.internal.tokenizers.LegacyScanner.foreach(LegacyScanner.scala:912)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer.uncachedTokenize(ScalametaTokenizer.scala:23)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer.$anonfun$tokenize$1(ScalametaTokenizer.scala:17)
+	at scala.collection.concurrent.TrieMap.getOrElseUpdate(TrieMap.scala:960)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer.tokenize(ScalametaTokenizer.scala:17)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer$$anon$2.apply(ScalametaTokenizer.scala:322)
+	at scala.meta.tokenizers.Api$XtensionTokenizeDialectInput.tokenize(Api.scala:22)
+	at scala.meta.tokenizers.Api$XtensionTokenizeInputLike.tokenize(Api.scala:13)
+	at scala.meta.internal.metals.SemanticTokensProvider$.getTokens(SemanticTokensProvider.scala:28)
+	at scala.meta.internal.metals.SemanticTokensProvider$.provide(SemanticTokensProvider.scala:89)
+	at scala.meta.internal.metals.Compilers.$anonfun$semanticTokens$3(Compilers.scala:545)
+	at scala.concurrent.impl.Promise$Transformation.run(Promise.scala:467)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.lang.Thread.run(Thread.java:833)
+
+2024.07.09 00:36:42 ERROR Failed to tokenize input for semantic tokens for C:\Users\Sachinthaka\OneDrive\Desktop\2Y SEM1\Functional Programming\Practical-4\q1.scala
+scala.meta.tokenizers.TokenizeException: <input>:19: error: unclosed comment
+/*def restockitem(a1:Array[Int],a2:Array[String],item:String,new_quantity:Int): Unit = {
+^
+	at scala.meta.internal.tokenizers.Reporter.incompleteInputError(Reporter.scala:26)
+	at scala.meta.internal.tokenizers.Reporter.incompleteInputError$(Reporter.scala:26)
+	at scala.meta.internal.tokenizers.Reporter$$anon$1.incompleteInputError(Reporter.scala:32)
+	at scala.meta.internal.tokenizers.Reporter.incompleteInputError(Reporter.scala:28)
+	at scala.meta.internal.tokenizers.Reporter.incompleteInputError$(Reporter.scala:28)
+	at scala.meta.internal.tokenizers.Reporter$$anon$1.incompleteInputError(Reporter.scala:32)
+	at scala.meta.internal.tokenizers.LegacyScanner.skipNestedComments(LegacyScanner.scala:61)
+	at scala.meta.internal.tokenizers.LegacyScanner.skipToCommentEnd(LegacyScanner.scala:77)
+	at scala.meta.internal.tokenizers.LegacyScanner.fetchToken(LegacyScanner.scala:300)
+	at scala.meta.internal.tokenizers.LegacyScanner.nextToken(LegacyScanner.scala:201)
+	at scala.meta.internal.tokenizers.LegacyScanner.foreach(LegacyScanner.scala:912)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer.uncachedTokenize(ScalametaTokenizer.scala:23)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer.$anonfun$tokenize$1(ScalametaTokenizer.scala:17)
+	at scala.collection.concurrent.TrieMap.getOrElseUpdate(TrieMap.scala:960)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer.tokenize(ScalametaTokenizer.scala:17)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer$$anon$2.apply(ScalametaTokenizer.scala:322)
+	at scala.meta.tokenizers.Api$XtensionTokenizeDialectInput.tokenize(Api.scala:22)
+	at scala.meta.tokenizers.Api$XtensionTokenizeInputLike.tokenize(Api.scala:13)
+	at scala.meta.internal.metals.SemanticTokensProvider$.getTokens(SemanticTokensProvider.scala:28)
+	at scala.meta.internal.metals.SemanticTokensProvider$.provide(SemanticTokensProvider.scala:89)
+	at scala.meta.internal.metals.Compilers.$anonfun$semanticTokens$3(Compilers.scala:545)
+	at scala.concurrent.impl.Promise$Transformation.run(Promise.scala:467)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.lang.Thread.run(Thread.java:833)
+
+2024.07.09 00:36:49 ERROR Failed to tokenize input for semantic tokens for C:\Users\Sachinthaka\OneDrive\Desktop\2Y SEM1\Functional Programming\Practical-4\q1.scala
+scala.meta.tokenizers.TokenizeException: <input>:19: error: unclosed comment
+/*def restockitem(a1:Array[Int],a2:Array[String],item:String,new_quantity:Int): Unit = {
+^
+	at scala.meta.internal.tokenizers.Reporter.incompleteInputError(Reporter.scala:26)
+	at scala.meta.internal.tokenizers.Reporter.incompleteInputError$(Reporter.scala:26)
+	at scala.meta.internal.tokenizers.Reporter$$anon$1.incompleteInputError(Reporter.scala:32)
+	at scala.meta.internal.tokenizers.Reporter.incompleteInputError(Reporter.scala:28)
+	at scala.meta.internal.tokenizers.Reporter.incompleteInputError$(Reporter.scala:28)
+	at scala.meta.internal.tokenizers.Reporter$$anon$1.incompleteInputError(Reporter.scala:32)
+	at scala.meta.internal.tokenizers.LegacyScanner.skipNestedComments(LegacyScanner.scala:61)
+	at scala.meta.internal.tokenizers.LegacyScanner.skipToCommentEnd(LegacyScanner.scala:77)
+	at scala.meta.internal.tokenizers.LegacyScanner.fetchToken(LegacyScanner.scala:300)
+	at scala.meta.internal.tokenizers.LegacyScanner.nextToken(LegacyScanner.scala:201)
+	at scala.meta.internal.tokenizers.LegacyScanner.foreach(LegacyScanner.scala:912)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer.uncachedTokenize(ScalametaTokenizer.scala:23)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer.$anonfun$tokenize$1(ScalametaTokenizer.scala:17)
+	at scala.collection.concurrent.TrieMap.getOrElseUpdate(TrieMap.scala:960)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer.tokenize(ScalametaTokenizer.scala:17)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer$$anon$2.apply(ScalametaTokenizer.scala:322)
+	at scala.meta.tokenizers.Api$XtensionTokenizeDialectInput.tokenize(Api.scala:22)
+	at scala.meta.tokenizers.Api$XtensionTokenizeInputLike.tokenize(Api.scala:13)
+	at scala.meta.internal.metals.SemanticTokensProvider$.getTokens(SemanticTokensProvider.scala:28)
+	at scala.meta.internal.metals.SemanticTokensProvider$.provide(SemanticTokensProvider.scala:89)
+	at scala.meta.internal.metals.Compilers.$anonfun$semanticTokens$3(Compilers.scala:545)
+	at scala.concurrent.impl.Promise$Transformation.run(Promise.scala:467)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.lang.Thread.run(Thread.java:833)
+
+2024.07.09 00:36:52 ERROR Failed to tokenize input for semantic tokens for C:\Users\Sachinthaka\OneDrive\Desktop\2Y SEM1\Functional Programming\Practical-4\q1.scala
+scala.meta.tokenizers.TokenizeException: <input>:19: error: unclosed comment
+/*def restockitem(a1:Array[Int],a2:Array[String],item:String,new_quantity:Int): Unit = {
+^
+	at scala.meta.internal.tokenizers.Reporter.incompleteInputError(Reporter.scala:26)
+	at scala.meta.internal.tokenizers.Reporter.incompleteInputError$(Reporter.scala:26)
+	at scala.meta.internal.tokenizers.Reporter$$anon$1.incompleteInputError(Reporter.scala:32)
+	at scala.meta.internal.tokenizers.Reporter.incompleteInputError(Reporter.scala:28)
+	at scala.meta.internal.tokenizers.Reporter.incompleteInputError$(Reporter.scala:28)
+	at scala.meta.internal.tokenizers.Reporter$$anon$1.incompleteInputError(Reporter.scala:32)
+	at scala.meta.internal.tokenizers.LegacyScanner.skipNestedComments(LegacyScanner.scala:61)
+	at scala.meta.internal.tokenizers.LegacyScanner.skipToCommentEnd(LegacyScanner.scala:77)
+	at scala.meta.internal.tokenizers.LegacyScanner.fetchToken(LegacyScanner.scala:300)
+	at scala.meta.internal.tokenizers.LegacyScanner.nextToken(LegacyScanner.scala:201)
+	at scala.meta.internal.tokenizers.LegacyScanner.foreach(LegacyScanner.scala:912)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer.uncachedTokenize(ScalametaTokenizer.scala:23)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer.$anonfun$tokenize$1(ScalametaTokenizer.scala:17)
+	at scala.collection.concurrent.TrieMap.getOrElseUpdate(TrieMap.scala:960)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer.tokenize(ScalametaTokenizer.scala:17)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer$$anon$2.apply(ScalametaTokenizer.scala:322)
+	at scala.meta.tokenizers.Api$XtensionTokenizeDialectInput.tokenize(Api.scala:22)
+	at scala.meta.tokenizers.Api$XtensionTokenizeInputLike.tokenize(Api.scala:13)
+	at scala.meta.internal.metals.SemanticTokensProvider$.getTokens(SemanticTokensProvider.scala:28)
+	at scala.meta.internal.metals.SemanticTokensProvider$.provide(SemanticTokensProvider.scala:89)
+	at scala.meta.internal.metals.Compilers.$anonfun$semanticTokens$3(Compilers.scala:545)
+	at scala.concurrent.impl.Promise$Transformation.run(Promise.scala:467)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.lang.Thread.run(Thread.java:833)
+
+2024.07.09 00:37:14 INFO  compiling practical-4_f4dd477a3a (1 scala source)
+2024.07.09 00:37:14 INFO  time: compiled Practical-4_f4dd477a3a in 0.83s
+Jul 09, 2024 12:37:41 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3289
+2024.07.09 00:37:54 INFO  compiling practical-4_f4dd477a3a (1 scala source)
+2024.07.09 00:37:54 INFO  time: compiled Practical-4_f4dd477a3a in 0.28s
+2024.07.09 00:42:15 INFO  compiling practical-4_f4dd477a3a (1 scala source)
+2024.07.09 00:42:15 INFO  time: compiled Practical-4_f4dd477a3a in 0.48s
+2024.07.09 00:43:00 INFO  compiling practical-4_f4dd477a3a (1 scala source)
+2024.07.09 00:43:00 INFO  time: compiled Practical-4_f4dd477a3a in 0.33s
+2024.07.09 00:44:40 INFO  compiling practical-4_f4dd477a3a (1 scala source)
+2024.07.09 00:44:40 INFO  time: compiled Practical-4_f4dd477a3a in 0.28s
+2024.07.09 00:45:05 INFO  compiling practical-4_f4dd477a3a (1 scala source)
+2024.07.09 00:45:05 INFO  time: compiled Practical-4_f4dd477a3a in 0.29s
+2024.07.09 00:45:38 INFO  compiling practical-4_f4dd477a3a (1 scala source)
+2024.07.09 00:45:38 INFO  time: compiled Practical-4_f4dd477a3a in 0.32s
+Jul 09, 2024 12:48:05 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 4202
+2024.07.09 00:50:18 INFO  compiling practical-4_f4dd477a3a (1 scala source)
+2024.07.09 00:50:18 INFO  time: compiled Practical-4_f4dd477a3a in 0.5s
+2024.07.09 00:50:34 INFO  compiling practical-4_f4dd477a3a (1 scala source)
+2024.07.09 00:50:34 INFO  time: compiled Practical-4_f4dd477a3a in 0.42s
+2024.07.09 00:51:48 INFO  compiling practical-4_f4dd477a3a (1 scala source)
+2024.07.09 00:51:48 INFO  time: compiled Practical-4_f4dd477a3a in 0.35s
+2024.07.09 00:52:19 INFO  compiling practical-4_f4dd477a3a (1 scala source)
+2024.07.09 00:52:19 INFO  time: compiled Practical-4_f4dd477a3a in 0.35s
+Jul 09, 2024 1:12:30 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 4953
+Jul 09, 2024 1:20:04 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\Sachinthaka\OneDrive\Desktop\2Y SEM1\Functional Programming\Practical-4\.metals\.reports\metals-full\2024-07-09\r_compiler-error_(Practical-4_f4dd477a3a)_01-20-04-061.md
+Jul 09, 2024 1:20:12 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 5255
+Jul 09, 2024 1:20:15 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\Sachinthaka\OneDrive\Desktop\2Y SEM1\Functional Programming\Practical-4\.metals\.reports\metals-full\2024-07-09\r_compiler-error_(Practical-4_f4dd477a3a)_01-20-15-499.md
+Jul 09, 2024 1:20:33 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 5363
+Jul 09, 2024 1:23:32 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 6184
+Jul 09, 2024 1:24:45 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 6402
+2024.07.09 01:26:01 INFO  compiling practical-4_f4dd477a3a (1 scala source)
+2024.07.09 01:26:01 WARN  there were 3 deprecation warnings; re-run with -deprecation for details
+2024.07.09 01:26:01 INFO  time: compiled Practical-4_f4dd477a3a in 0.67s
+2024.07.09 01:26:32 INFO  compiling practical-4_f4dd477a3a (1 scala source)
+2024.07.09 01:26:32 WARN  there were 3 deprecation warnings; re-run with -deprecation for details
+2024.07.09 01:26:32 INFO  time: compiled Practical-4_f4dd477a3a in 0.29s
