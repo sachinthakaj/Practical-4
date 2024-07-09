@@ -67,13 +67,14 @@ def q3():Unit={
   println(formatName("Saman")(toLower))
 
 }
-def toUpper(str: String):String = str match{
+
+def toUpper(str: String):String = str match {
   case "" => ""
   case s =>
     if s.head >= 'a' & s.head <= 'z' then
       (s.head -32).toChar +: toUpper(s.tail)
     else
-      s.head +: toLower(s.tail)  
+      s.head +: toUpper(s.tail)  
 }    
 
 def toLower(str: String):String = str match{
